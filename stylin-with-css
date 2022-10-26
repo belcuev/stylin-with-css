@@ -10,8 +10,8 @@
             }
         body{
             font-family:'Courier New', Courier, monospace
-            max-width:900px;
-            background-color:#fff;  
+            max- witdh 900px;
+            background-color: #ffff;  
             margin: 0 auto; 
             width:90%;
             }
